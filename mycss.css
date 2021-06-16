@@ -1,0 +1,31 @@
+.box1 {
+  height: 200px;
+  width: 200px;
+  background-color:#615200;
+  color: aliceblue;
+  border: 10px solid red;
+  padding: 25px;
+  margin: 25px;
+}
+.box2 {
+  height: 300px;
+  width: 300px;
+  background-color:#004d61;
+  color: aliceblue;
+  border: 10px solid blue;
+  padding: 25px;
+  margin: 25px;
+}
+.example-1 {
+  border: 1px dotted black; /* 上下左右都相同 */
+}
+.example-2 {
+  border-bottom: 1px solid blue; /* 只设置底部边框 */
+}
+.example-3 {
+  border: 1px solid grey;
+  border-radius: 15px; /* 边框圆角 */
+}
+.example-4 {
+  border-left: 5px solid purple;
+}
